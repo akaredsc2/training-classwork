@@ -1,4 +1,4 @@
-package org.vitaly.week02.lesson05.generics;
+package org.vitaly.week02.lesson05;
 
 import java.util.ArrayList;
 import java.util.List;
