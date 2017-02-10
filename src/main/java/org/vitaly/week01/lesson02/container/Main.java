@@ -1,4 +1,4 @@
-package org.vitaly.week01.lesson02;
+package org.vitaly.week01.lesson02.container;
 
 import java.util.ArrayList;
 import java.util.List;
