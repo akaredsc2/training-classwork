@@ -1,10 +1,10 @@
 package org.vitaly.week03.lesson08.proxy;
-
+/*
 import javafx.util.Pair;
 
 import java.util.HashMap;
 import java.util.Map;
-
+*/
 /**
  * Created by vitaly on 15.02.17.
  */
@@ -24,7 +24,7 @@ class Sum extends Component {
         return a + b;
     }
 }
-
+/*
 class ProxySum extends Component {
     Component component = new Sum();
     Map<Pair<Integer, Integer>, Integer> cache = new HashMap<>();
@@ -39,8 +39,10 @@ class ProxySum extends Component {
         return result;
     }
 }
+*/
 
 public class Main {
+    /*
     public static void main(String[] args) {
         Component c = new ProxySum();
         c.operation(10, 20);
@@ -48,4 +50,5 @@ public class Main {
         c.operation(10, 20);
         System.out.println("cache");
     }
+    */
 }
