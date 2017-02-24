@@ -1,0 +1,1 @@
+org.vitaly.week04.lesson12.di.A:myInterface:org.vitaly.week04.lesson12.di.B

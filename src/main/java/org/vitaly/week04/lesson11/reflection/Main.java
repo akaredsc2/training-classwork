@@ -31,8 +31,8 @@ class A {
 
 public class Main {
     public static void main(String[] args) {
-        Class c1 = null;
         try {
+            Class c1;
             c1 = Class.forName("org.vitaly.week04.lesson11.reflection.A");
 
             System.out.println(c1);
