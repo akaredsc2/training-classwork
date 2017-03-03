@@ -17,7 +17,7 @@ clone
 
 /**
  * equals, hashCode
- * <p>
+ * <assertion>
  * if equals is overloaded than hashCode should be overloaded too
  * if equals returns true than hashCodes must be equal(opposite may not be true)
  */

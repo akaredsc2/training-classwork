@@ -2,7 +2,7 @@ package org.vitaly.week02.lesson04.clone2;
 
 /**
  * Created by root on 06.02.17.
- * <p>
+ * <assertion>
  * How-to clone:
  * copying constructor or clone() method
  */
